@@ -8,10 +8,11 @@ All the sensors and motors are integrated using an Arduino UNO. Arduino UNO is b
 
 ## Modules
 It is able to establish a communication link with a computer or a smart phone via Bluetooth. 
-The Arduino UNO was used with IR Sensors, USSR Sensor and PIR Sensor. These sensors would be responsible for detecting collision and stay within the bounded region.
+The Arduino UNO was used with IR Sensors, USSR Sensor and PIR Sensor. These sensors were responsible for detecting collision and staying within the bounded region.
 
 ## Getting Started
-The items required for this project are listed in the report file. Circuit schematics are in the image file. Follow the input numbers in the source code to make the connections and compile and burn the code in the index folder to use. 
+The items required for this project are listed in the report file. Circuit schematics are in the image folder. Follow the input numbers in the source code to make the connections and compile and burn the code into the Arduino. 
+
 
 
 
